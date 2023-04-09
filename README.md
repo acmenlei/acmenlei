@@ -1,1 +1,1 @@
-<p align="center"> Visitor count<br> <img src="https://profile-counter.glitch.me/acmenlei/count.svg" /></p>
+<p align="center"> Visitor Count<br> <img src="https://profile-counter.glitch.me/acmenlei/count.svg" /></p>
