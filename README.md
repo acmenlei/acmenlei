@@ -1,6 +1,7 @@
 <center>
-
-<p><strong>访客</strong>：<br/> <img src="https://profile-counter.glitch.me/acmenlei/count.svg" /></p>
+<p><strong>访客</strong></p>
+  
+<p><img src="https://profile-counter.glitch.me/acmenlei/count.svg" /></p>
 
 <p><strong>目前状态</strong>：23应届生找工作中</p>
 
