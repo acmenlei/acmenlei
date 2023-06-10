@@ -9,7 +9,7 @@
 
 <p><strong>期望岗位</strong>：前端工程师</p>
 
-<p><strong>技术栈</strong>：vue.js、react.js、nest.js，flutter，对flutter很感兴趣，最近有一直在学习这方面的内容，有往跨端方向发展的想法.</p>
+<p><strong>技术栈</strong>：vue.js、react.js、nest.js，flutter，对flutter很感兴趣，最近一直在学习这方面的内容，有往跨端方向发展的想法.</p>
 
 <p><strong>Email</strong>：coderleilei@163.com</p>
 
