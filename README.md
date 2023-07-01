@@ -1,4 +1,2 @@
-<center>
-<p><strong>visitor count</strong></p>
-<p><img src="https://profile-counter.glitch.me/acmenlei/count.svg" /></p>
-</center>
+<p align='center'><strong>visitor count</strong></p>
+<p align='center'><img src="https://profile-counter.glitch.me/acmenlei/count.svg" /></p>
