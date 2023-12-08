@@ -1,8 +1,8 @@
 <!-- <p align='center'>Visitor Count</p>
 <p align='center'><img src="https://profile-counter.glitch.me/acmenlei/count.svg" /></p>
 -->
-<p style="font-size: 12px; display: flex; align-items: center; height: 20px;"><img src="https://codecv.top/favicon.svg" width="20" height="20" />独立开发产品《CodeCV简历》https://codecv.top </p>
-
+<!--<p style="font-size: 12px; display: flex; align-items: center; height: 20px;"><img src="https://codecv.top/favicon.svg" width="20" height="20" />独立开发产品《CodeCV简历》https://codecv.top </p>
+-->
 <p style="font-size: 12px; display: flex; align-items: center; height: 20px;">
 <img src="https://coderlei.netlify.app/favicon.ico" width="20" height="20" /> 我的博客 https://coderlei.netlify.app
 </p>
