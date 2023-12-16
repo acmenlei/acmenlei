@@ -21,4 +21,4 @@
 <img src="https://lf3-cdn-tos.bytescm.com/obj/static/xitu_juejin_web/static/favicons/favicon-32x32.png" width="20" height="20" /> 掘金 https://juejin.cn/user/2586468969632445
 </p>
 -->
-一个前端，热衷于研究一些提升开发者幸福感的工具，平时也爱水水文章，在浏览器、跨端、服务端、部署等领域均有涉猎，目前独立开发了一款产品 《CodeCV简历》。
+一个前端，热衷于研究一些提升开发者幸福感的工具，在浏览器、跨端、服务端、部署等领域均有涉猎，目前独立开发了一款产品 《CodeCV简历》。
