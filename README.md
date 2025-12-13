@@ -27,4 +27,4 @@
 ✍🏻 公众号：程序员热水【分享前端相关编程干货/实用工具】
 <br/>
 
-🌴 我的产品：[OfferStar AI（笔面试神器）](https://www.offerstar.cn)｜[牛笔AI（公众号文章/图文一键排版）](https://niubi.codecvcv.com)｜[CodeCV简历](https://www.codecvcv.com)
+🌴 我的产品：[OfferStar AI（笔面试神器）](https://www.offerstar.cn)｜[牛笔AI（文章/图文智能排版工具）](https://niubi.codecvcv.com)｜[CodeCV简历](https://www.codecvcv.com)
