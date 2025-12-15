@@ -6,7 +6,7 @@
 <img src="https://coderlei.netlify.app/favicon.ico" width="20" height="20" /> 我的博客 https://coderlei.netlify.app
 </p>
 -->
-[在线简历制作](https://www.codecvcv.com)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[公众号文章/图文智能排版工具](https://niubi.codecvcv.com)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[AI笔试面试神器](https://www.offerstar.cn)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[个人博客](https://coderlei.netlify.app)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[语雀](https://www.yuque.com/xiongleixin)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[B站](https://space.bilibili.com/455695921 )&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[掘金](https://juejin.cn/user/2586468969632445)
+[在线简历制作](https://www.codecvcv.com)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[公众号/图文排版工具](https://niubi.codecvcv.com)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[AI笔试面试神器](https://www.offerstar.cn)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[个人博客](https://coderlei.netlify.app)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[语雀](https://www.yuque.com/xiongleixin)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[B站](https://space.bilibili.com/455695921 )&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[掘金](https://juejin.cn/user/2586468969632445)
 
 <!-- 
 <p style="font-size: 12px; display: flex; align-items: center; height: 20px;">
