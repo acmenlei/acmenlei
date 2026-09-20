@@ -3,4 +3,4 @@
 🤵🏻 关于我：独立开发｜自由职业，对AI绘画、Agent 非常感兴趣
 <br/>
 
-🌴 我的产品：[OfferStar AI（笔面试神器）](https://www.offerstar.cn)｜[CodeCV简历（在线简历制作）](https://www.codecvcv.com)｜[言究社（英语学习）](https://english.codecvcv.com)｜[牛笔AI（公众号图文排版）](https://niubi.codecvcv.com)｜[MockupStudio（产品介绍图生成）](https://mockup.codecvcv.com)
+🌴 我的产品：[OfferStar AI（笔面试神器）](https://www.offerstar.cn)｜[CodeCV简历（在线简历制作）](https://www.codecvcv.com)｜[言究社（英语学习）](https://english.codecvcv.com)｜[MockupStudio（产品图生成）](https://mockup.codecvcv.com)
