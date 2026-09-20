@@ -1,6 +1,6 @@
 🎈 自媒体：[小红书](https://www.xiaohongshu.com/user/profile/63f07ca4000000000f0112da)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[掘金](https://juejin.cn/user/2586468969632445)
 
-🤵🏻 关于我：独立开发｜自由职业，对AI绘画、Agent 非常感兴趣
+🤵🏻 关于我：前程序员，现独立开发/自由职业OPC
 <br/>
 
 🌴 我的产品：[OfferStar AI（笔面试神器）](https://www.offerstar.cn)｜[CodeCV简历（在线简历制作）](https://www.codecvcv.com)｜[言究社（英语学习）](https://english.codecvcv.com)｜[MockupStudio（产品图生成）](https://mockup.codecvcv.com)
